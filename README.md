@@ -58,7 +58,7 @@ A dedicated documentation site built and delivered as part of the project — no
 
 ### 4. Client Training
 
-Delivered a structured 60–90 minute live training session (screen-share) walking the client through the full CMS. A written training script was prepared in advance to ensure consistent, thorough coverage of all sections. See [`TRAINING-SCRIPT.md`](./TRAINING-SCRIPT.md).
+Delivered a structured 60–90 minute live training session (screen-share) walking the client through the full CMS. A written training script was prepared in advance to ensure consistent, thorough coverage of all sections.
 
 ---
 
