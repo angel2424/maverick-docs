@@ -14,13 +14,13 @@ The About page opens with a hero banner (similar to the home page), followed by 
 **English About page:**
 1. Log in to Directus.
 2. Click **Content** in the left sidebar.
-3. Click **about** — the item opens directly.
+3. Click **about**; the item opens directly.
 
 **Spanish About page:**
 - Same steps, but click **about_es** instead.
 
 :::note
-`about` and `about_es` are singletons — there is only one item each. Just open it and edit.
+`about` and `about_es` are singletons, there is only one item each. Just open it and edit.
 :::
 
 ---
@@ -49,7 +49,7 @@ The About page opens with a hero banner (similar to the home page), followed by 
 | Field | What it does |
 |---|---|
 | **Title** | The heading for the "Our Story" section (e.g., "How It All Started") |
-| **Description** | The full story of how your business began — supports markdown formatting |
+| **Description** | The full story of how your business began, supports markdown formatting |
 
 ### Step-by-Step: Editing the Our Story Section
 
@@ -72,7 +72,7 @@ The **Description** field supports **markdown**, which lets you add simple forma
 | A section header | Start the line with `## ` |
 
 :::tip
-Write your story in a natural, conversational tone. Visitors connect better with a personal story than a formal biography. Share the "why" behind your business — not just the facts.
+Write your story in a natural, conversational tone. Visitors connect better with a personal story than a formal biography. Share the "why" behind your business, not just the facts.
 :::
 
 For the full markdown reference, see the [Formatting Guide](/reference/formatting-guide).

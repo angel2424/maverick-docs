@@ -23,7 +23,7 @@ The Commitment section describes your promise to customers. The Service Areas se
 | Field | What it does |
 |---|---|
 | **Title** | The heading for the Commitment section |
-| **Description** | The full commitment statement — supports markdown formatting |
+| **Description** | The full commitment statement, supports markdown formatting |
 
 ### Step-by-Step: Editing the Commitment Section
 

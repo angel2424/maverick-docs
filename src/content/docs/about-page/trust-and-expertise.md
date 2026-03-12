@@ -24,7 +24,7 @@ The Trust section builds confidence with visitors, and the Expertise section hig
 |---|---|
 | **Title** | The heading for the Trust section |
 | **Subtitle** | A secondary line of text below the heading |
-| **Description** | The description paragraph — supports markdown formatting |
+| **Description** | The description paragraph, supports markdown formatting |
 
 ### Step-by-Step: Editing the Trust Section
 
@@ -49,7 +49,7 @@ The Trust section is a great place to mention any licenses, certifications, or g
 | **Subtitle** | A secondary line of text below the heading |
 | **Description** | The main description paragraph |
 | **Expertise Image** | The photo displayed alongside the expertise content |
-| **Experience List** | A bulleted list of experience highlights — supports markdown formatting |
+| **Experience List** | A bulleted list of experience highlights, supports markdown formatting |
 
 ### Step-by-Step: Editing the Expertise Section
 

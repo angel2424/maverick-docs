@@ -29,13 +29,13 @@ Your social media links appear as icons in the footer of every page. This guide 
 
 1. In the **Social Media Links** area, click **+ Create New**.
 2. Fill in the following fields:
-   - **name** — The platform name (e.g., `Facebook`, `Instagram`, `YouTube`)
-   - **url** — The full link to your profile page
-   - **icon** — The icon name for that platform (ask your developer if you're unsure)
+   - **name**: the platform name (e.g., `Facebook`, `Instagram`, `YouTube`)
+   - **url**: the full link to your profile page
+   - **icon**: the icon name for that platform (ask your developer if you're unsure)
 3. Click **Save**.
 
 :::note
-If you're not sure which icon to use for a new platform, leave the icon field blank and send a note to your developer — they can set it for you.
+If you're not sure which icon to use for a new platform, leave the icon field blank and send a note to your developer; they can set it for you.
 :::
 
 ---

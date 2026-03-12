@@ -3,7 +3,7 @@ title: Hero Section
 description: How to edit the main headline, tagline, description, and background image on the home page.
 ---
 
-The hero section is the large banner at the very top of your home page — the first thing visitors see. It has a background image, a tagline, a main headline, a short paragraph, and two buttons.
+The hero section is the large banner at the very top of your home page, the first thing visitors see. It has a background image, a tagline, a main headline, a short paragraph, and two buttons.
 
 ![Hero Section Screen Capture](/home-hero.png)
 
@@ -14,13 +14,13 @@ The hero section is the large banner at the very top of your home page — the f
 **English home page:**
 1. Log in to Directus.
 2. Click **Content** in the left sidebar.
-3. Click **Pages (English) > Home** — the item opens directly.
+3. Click **Pages (English) > Home**; the item opens directly.
 
 **Spanish home page:**
 - Same steps, but click **Pages (Spanish) > Home** instead.
 
 :::note
-`home` and `home_es` are singletons — there is only **one item** in each. You do not need to create a new item. Just open it and edit.
+`home` and `home_es` are singletons, there is only **one item** in each. You do not need to create a new item. Just open it and edit.
 :::
 
 ---
@@ -30,7 +30,7 @@ The hero section is the large banner at the very top of your home page — the f
 | Field | What it does |
 |---|---|
 | **Subtitle** | The small uppercase tagline that appears **above** the headline (e.g., "Trusted Mobile Home Services") |
-| **Title** | The large main headline — wrap any word in `*asterisks*` to show it in amber/gold color |
+| **Title** | The large main headline. Wrap any word in `*asterisks*` to show it in amber/gold color |
 | **Description** | The short paragraph of text below the headline |
 | **Hero Image** | The background image for the entire hero section |
 | **Primary Button** | The main call-to-action button (e.g., "Get a Free Quote") |
@@ -80,5 +80,5 @@ The hero buttons pull their text from the **buttons** collection. To change what
 7. Click **Save**.
 
 :::caution
-Changing a button's label here will update it **everywhere** that button is used across the site — not just on the home page.
+Changing a button's label here will update it **everywhere** that button is used across the site, not just on the home page.
 :::

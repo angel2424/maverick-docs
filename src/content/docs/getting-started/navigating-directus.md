@@ -1,6 +1,6 @@
 ---
 title: Navigating Directus
-description: A quick tour of the Directus admin panel — where to find collections, items, and the media library.
+description: A quick tour of the Directus admin panel: where to find collections, items, and the media library.
 ---
 
 Once you're logged in, you'll see the Directus dashboard. Here's a quick tour so you know where everything is.
@@ -15,8 +15,8 @@ The menu on the left is your main navigation. The two areas you'll use most are:
 
 | Icon | Name | What it's for |
 |---|---|---|
-| Cube icon | **Content** | All your website sections — home page, about page, services, settings, etc. |
-| Folder icon | **Files** | Your media library — where all uploaded photos and videos live |
+| Cube icon | **Content** | All your website sections: home page, about page, services, settings, etc. |
+| Folder icon | **Files** | Your media library, where all uploaded photos and videos live |
 
 Everything else (settings, users, etc.) is for your developer and you won't need to touch it.
 
@@ -41,10 +41,10 @@ To open a collection:
 Some collections have **only one item**, these are called singletons. When you click on a singleton, it opens the item directly instead of showing a list first.
 
 Examples of singletons (only one item each):
-- `home` — your English home page
-- `home_es` — your Spanish home page
-- `about` — your English about page
-- `settings` — global site settings
+- `home`: your English home page
+- `home_es`: your Spanish home page
+- `about`: your English about page
+- `settings`: global site settings
 
 Other collections have **multiple items**. For example, `services` has one item per service you offer, and `services_page` has one item per city.
 
@@ -68,7 +68,7 @@ Changes are **not saved automatically.** If you close the tab or navigate away w
 
 ## Translations (English vs. Spanish)
 
-Many fields on your site exist in both English and Spanish. Inside Directus, you'll find a **Translations** section within certain items. It has two tabs — one for English (`en-US`) and one for Spanish (`es-MX`).
+Many fields on your site exist in both English and Spanish. Inside Directus, you'll find a **Translations** section within certain items. It has two tabs: one for English (`en-US`) and one for Spanish (`es-MX`).
 
 ![Translations Field Screen Capture](/translation.png)
 

@@ -17,7 +17,7 @@ These collections control content that appears on more than one page.
 | `settings_translations` | Footer heading, intro, and closing quote (EN + ES) | Footer (all pages) |
 | `services` | Service names, descriptions, icons, images | Home page + all city service pages |
 | `buttons` | All reusable button labels and links | Throughout the entire site |
-| `stats` | Key numbers/stats (e.g., "25+ Years") | Home page — Why Us section |
+| `stats` | Key numbers/stats (e.g., "25+ Years") | Home page, Why Us section |
 | `process_steps` | Step-by-step process cards | Home page + city service pages |
 | `values` | Core value cards (e.g., "Quality", "Integrity") | About page |
 | `local_list` | Local considerations items | City service pages |
@@ -31,7 +31,7 @@ These collections control content that appears on more than one page.
 | `home` | English | All home page sections (hero, services, process, expertise, why us, owner's message) |
 | `home_es` | Spanish | Same, in Spanish |
 
-Both are **singletons** — there is only one item each.
+Both are **singletons**, there is only one item each.
 
 ---
 
@@ -42,7 +42,7 @@ Both are **singletons** — there is only one item each.
 | `about` | English | All about page sections (hero, story, trust, expertise, values, commitment, areas, closing) |
 | `about_es` | Spanish | Same, in Spanish |
 
-Both are **singletons** — there is only one item each.
+Both are **singletons**, there is only one item each.
 
 ---
 
@@ -50,7 +50,7 @@ Both are **singletons** — there is only one item each.
 
 | Collection | Language | What it controls |
 |---|---|---|
-| `services_page` | English | Hero, intro, and headings — one item per city |
+| `services_page` | English | Hero, intro, and headings; one item per city |
 | `services_page_es` | Spanish | Same, in Spanish |
 | `city_descriptions` | EN + ES | Custom service description overrides per city |
 
@@ -62,7 +62,7 @@ Both are **singletons** — there is only one item each.
 |---|---|
 | Directus Files → **gallery** folder | All photos and videos shown on the Our Work page |
 
-No collection to edit — just upload files to the gallery folder.
+No collection to edit; just upload files to the gallery folder.
 
 ---
 

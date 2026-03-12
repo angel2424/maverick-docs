@@ -5,7 +5,7 @@ description: Your step-by-step guide for managing your Maverick Mobile Home Serv
 
 Welcome! This is your personal guide for managing your Maverick Mobile Home Services website.
 
-You'll find step-by-step instructions for updating every section of your site — from your phone number and business hours to photos, service descriptions, and more.
+You'll find step-by-step instructions for updating every section of your site, from your phone number and business hours to photos, service descriptions, and more.
 
 **You don't need any technical knowledge.** If you can fill out a form, you can update your website.
 
@@ -47,7 +47,7 @@ Use the menu on the left to jump to any topic.
 
 You'll need two things:
 
-1. Your **Directus login link** — provided by your developer when your site launched.
+1. Your **Directus login link**, provided by your developer when your site launched.
 2. Your **username and password**.
 
 Start with [How to Log In](/getting-started/how-to-log-in) if you haven't logged in before.

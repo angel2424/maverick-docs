@@ -49,5 +49,5 @@ The expertise section highlights your company's depth of knowledge and experienc
 4. Click **Save**.
 
 :::tip
-Use a high-quality, well-lit photo. Recommended size: at least **800×600 pixels**. Avoid blurry or dark photos — they make the section look unprofessional.
+Use a high-quality, well-lit photo. Recommended size: at least **800×600 pixels**. Avoid blurry or dark photos; they make the section look unprofessional.
 :::

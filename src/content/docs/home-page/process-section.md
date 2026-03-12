@@ -3,7 +3,7 @@ title: Process Section
 description: How to edit the "How It Works" step-by-step process section on the home page.
 ---
 
-The process section shows visitors how your service works — the step-by-step journey from first contact to completed job. This section has a heading and description that you edit on the home page, plus individual steps that are managed separately.
+The process section shows visitors how your service works: the step-by-step journey from first contact to completed job. This section has a heading and description that you edit on the home page, plus individual steps that are managed separately.
 
 ![Expertise Section Screen Capture](/home-process.png)
 

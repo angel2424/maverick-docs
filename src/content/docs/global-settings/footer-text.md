@@ -45,7 +45,7 @@ The footer of your website has three text areas: a heading, an intro sentence, a
 
 ## Formatting the Closing Quote
 
-The **Quote Details** field supports **markdown** — a simple way to add formatting to text.
+The **Quote Details** field supports **markdown**, a simple way to add formatting to text.
 
 | To do this… | Type this… |
 |---|---|
@@ -54,7 +54,7 @@ The **Quote Details** field supports **markdown** — a simple way to add format
 | New paragraph | Leave a blank line between paragraphs |
 
 :::tip
-Keep the closing quote short and memorable — one or two sentences works best.
+Keep the closing quote short and memorable; one or two sentences works best.
 :::
 
 For the full formatting reference, see the [Formatting Guide](/reference/formatting-guide).

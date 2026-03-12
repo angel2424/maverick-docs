@@ -3,7 +3,7 @@ title: How to Log In
 description: Step-by-step instructions for logging into the Directus CMS admin panel.
 ---
 
-Your website content is managed through a tool called **Directus** — this is your CMS (content management system), the "behind the scenes" area where you update your site.
+Your website content is managed through a tool called **Directus**, your CMS (content management system), the "behind the scenes" area where you update your site.
 
 To make any changes to your website, you start here.
 

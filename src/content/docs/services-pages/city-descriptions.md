@@ -12,7 +12,7 @@ For example: the description for "Roof Repair" might be slightly different for E
 
 ## Where to Find It
 
-City-specific descriptions are managed from inside the **services** collection — not from a separate place in the sidebar.
+City-specific descriptions are managed from inside the **services** collection, not from a separate place in the sidebar.
 
 1. Log in to Directus.
 2. Click **Content** in the left sidebar.
@@ -28,8 +28,8 @@ City-specific descriptions are managed from inside the **services** collection �
 
 | Field | What it does |
 |---|---|
-| **City Name** | A label to help you identify this entry (e.g., "Eagle Pass — Roof Repair") |
-| **City Slug** | The city's URL slug — must match exactly (e.g., `eagle-pass`) |
+| **City Name** | A label to help you identify this entry (e.g., "Eagle Pass: Roof Repair") |
+| **City Slug** | The city's URL slug; must match exactly (e.g., `eagle-pass`) |
 | **Service Description** | The custom description text for this city (in English or Spanish) |
 
 ---
@@ -62,5 +62,5 @@ City-specific descriptions are managed from inside the **services** collection �
 When the website loads a city services page, it checks for a city-specific description first. If one exists for that city + service combination, it uses that. If not, it falls back to the default description set on the service itself.
 
 :::caution
-The **City Slug** you type must match the city's slug in the **settings** **Cities** field **exactly** — including capitalization and dashes. For example: `eagle-pass` not `Eagle Pass` or `eaglepass`.
+The **City Slug** you type must match the city's slug in the **settings** **Cities** field **exactly**, including capitalization and dashes. For example: `eagle-pass` not `Eagle Pass` or `eaglepass`.
 :::

@@ -26,22 +26,22 @@ Each city has its own services page with a customized hero, intro paragraph, and
 
 | Field | What it does |
 |---|---|
-| **City (slug)** | The URL slug for this city (e.g., `eagle-pass`) — **do not change this** |
+| **City (slug)** | The URL slug for this city (e.g., `eagle-pass`); **do not change this** |
 | **Title** | The headline shown in the hero banner for this city |
 | **Description** | The short paragraph in the hero |
 | **Hero Image** | The background image for the hero banner |
-| **Intro Text** | The intro paragraph below the hero — supports markdown formatting |
+| **Intro Text** | The intro paragraph below the hero, supports markdown formatting |
 | **Title** | The heading above the services list (e.g., "Our Services in Eagle Pass") |
 | **Title** | The heading above the Local Considerations section |
-| **Local Considerations List** | The local consideration items shown in this section — editable directly inside this city page |
+| **Local Considerations List** | The local consideration items shown in this section, editable directly inside this city page |
 
 ---
 
 ## Step-by-Step: Editing a City Page
 
 1. Open **services_page** and click the city you want to edit.
-2. Update the **Title** — type the city-specific headline.
-3. Update the **Description** — type the short hero paragraph.
+2. Update the **Title**: type the city-specific headline.
+3. Update the **Description**: type the short hero paragraph.
 4. To change the hero background image, click **Hero Image** and upload a new photo.
 5. Click the **Intro Text** field and update the intro paragraph.
 6. Update the services list **Title** with the heading for the services list.
@@ -71,7 +71,7 @@ For the full markdown reference, see the [Formatting Guide](/reference/formattin
 ## The City Slug Field
 
 :::caution
-The **City (slug)** field contains the URL slug — the short name used in the website address. For example, `eagle-pass` makes the page live at `yoursite.com/services/eagle-pass`.
+The **City (slug)** field contains the URL slug, the short name used in the website address. For example, `eagle-pass` makes the page live at `yoursite.com/services/eagle-pass`.
 
 **Never change the city slug.** Changing it breaks the page's URL and removes it from Google search results.
 :::
@@ -80,7 +80,7 @@ The **City (slug)** field contains the URL slug — the short name used in the w
 
 ## Editing Local Considerations Items
 
-The Local Considerations items are edited directly inside the city page — you don't need to go anywhere else.
+The Local Considerations items are edited directly inside the city page; you don't need to go anywhere else.
 
 1. Open the city page you want to edit (**services_page** → click the city).
 2. Scroll down to the **Local Considerations List** field.
@@ -95,5 +95,5 @@ The Local Considerations items are edited directly inside the city page — you 
 **To remove an item:** Click the item, then click the remove/unlink button next to it.
 
 :::note
-Local Considerations items are shared — the same item can appear on multiple city pages. If you edit an item here, it will update everywhere that item is used.
+Local Considerations items are shared; the same item can appear on multiple city pages. If you edit an item here, it will update everywhere that item is used.
 :::

@@ -3,7 +3,7 @@ title: Why Us Section
 description: How to edit the "Why Choose Us" section and the stats (numbers) on the home page.
 ---
 
-The "Why Us" section explains why customers should choose Maverick Mobile Home Services. It includes a heading, a description, a list of service areas, a photo, and a button. It also displays your key stats (like "25+ Years in Business") — those are managed separately.
+The "Why Us" section explains why customers should choose Maverick Mobile Home Services. It includes a heading, a description, a list of service areas, a photo, and a button. It also displays your key stats (like "25+ Years in Business"); those are managed separately.
 
 ![Why us Section Screen Capture](/home-why.png)
 
@@ -59,9 +59,9 @@ The stat cards (e.g., "25+ Years in Business", "500+ Jobs Completed") are manage
 ![Directus Stats Screen Capture](/stats.png)
 
 :::tip
-Keep the stat **title** short — just the number and symbol (e.g., `25+`, `500+`, `100%`). The **description** is the label below it.
+Keep the stat **title** short: just the number and symbol (e.g., `25+`, `500+`, `100%`). The **description** is the label below it.
 :::
 
 :::caution
-Do not delete a stat item unless you want it to disappear from the website. If you want to change a number, just edit the **title** field — don't delete and recreate.
+Do not delete a stat item unless you want it to disappear from the website. If you want to change a number, just edit the **title** field; don't delete and recreate.
 :::

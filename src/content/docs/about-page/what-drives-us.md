@@ -3,7 +3,7 @@ title: What Drives Us
 description: How to edit the values section heading and the individual value cards on the About page.
 ---
 
-The "What Drives Us" section showcases your company's core values — the principles that guide how you work. It has a heading, an intro paragraph, a set of value cards, and a closing paragraph.
+The "What Drives Us" section showcases your company's core values, the principles that guide how you work. It has a heading, an intro paragraph, a set of value cards, and a closing paragraph.
 
 ![What Drives Us Section Screen Capture](/drive.png)
 

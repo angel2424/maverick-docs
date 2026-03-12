@@ -3,7 +3,7 @@ title: Services Section
 description: How to edit the services section heading, description, and helper text on the home page.
 ---
 
-The services section appears below the hero on your home page. It introduces your list of services with a heading, a description, and a call-to-action button. The service cards themselves (names, descriptions, icons) are managed in the `services` collection — see [Managing Services](/services-pages/managing-services).
+The services section appears below the hero on your home page. It introduces your list of services with a heading, a description, and a call-to-action button. The service cards themselves (names, descriptions, icons) are managed in the `services` collection; see [Managing Services](/services-pages/managing-services).
 
 ![Expertise Section Screen Capture](/home-services.png)
 
@@ -25,7 +25,7 @@ The services section appears below the hero on your home page. It introduces you
 | **Subtitle** | The small uppercase label above the heading (e.g., "What We Do") |
 | **Title** | The section heading (e.g., "Our Services") |
 | **Description** | The paragraph of text below the heading |
-| **Helper Message** | A small note displayed below the CTA button (optional — extra info for visitors) |
+| **Helper Message** | A small note displayed below the CTA button (optional, extra info for visitors) |
 | **Action Button** | The call-to-action button linking to your services pages |
 
 ---
@@ -47,7 +47,7 @@ The services section appears below the hero on your home page. It introduces you
 | **Subtitle** | The small label above the heading won't appear |
 | **Title** | The section will have no heading |
 | **Description** | No description paragraph will appear |
-| **Helper Message** | No helper note appears below the button — that's fine |
+| **Helper Message** | No helper note appears below the button; that's fine |
 
 :::tip
 The **Helper Message** field is optional. Many sites leave it empty. Only use it if you have a short note you want visitors to see near the button (e.g., "No travel fees within Eagle Pass").

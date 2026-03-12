@@ -1,6 +1,6 @@
 ---
 title: Overview & City Pages
-description: How services pages are organized — one page per city, in English and Spanish.
+description: How services pages are organized: one page per city, in English and Spanish.
 ---
 
 Your website has a separate services page for each city you serve. Each page is customized with city-specific content, but they all show the same list of services.
@@ -12,8 +12,8 @@ This guide explains how it all works before you start editing.
 ## How City Pages Work
 
 Each city has its own page at a URL like:
-- `/services/eagle-pass` — English page for Eagle Pass
-- `/es/services/eagle-pass` — Spanish page for Eagle Pass
+- `/services/eagle-pass`: English page for Eagle Pass
+- `/es/services/eagle-pass`: Spanish page for Eagle Pass
 
 The content for each city page lives in two collections:
 
@@ -30,10 +30,10 @@ Each collection has **one item per city**. You never need to create a new item u
 
 Each city services page has these sections:
 
-1. **Hero** — A city-specific headline, description, and background photo
-2. **Intro** — A short welcome paragraph about your services in that city
-3. **Services List** — The full list of services (same for every city — managed in the `services` collection)
-4. **Local Considerations** — City-specific tips or notes about working in that area
+1. **Hero:** a city-specific headline, description, and background photo
+2. **Intro:** a short welcome paragraph about your services in that city
+3. **Services List:** the full list of services (same for every city, managed in the `services` collection)
+4. **Local Considerations:** city-specific tips or notes about working in that area
 
 ---
 
@@ -65,6 +65,6 @@ If you need to add a new city, contact your developer and provide:
 
 ## Next Steps
 
-- [Editing a City Page](/services-pages/editing-a-city-page) — Update the hero, intro, and headings for a specific city
-- [Managing Services](/services-pages/managing-services) — Edit service names, descriptions, and images
-- [City-Specific Descriptions](/services-pages/city-descriptions) — Override a service description for a particular city
+- [Editing a City Page](/services-pages/editing-a-city-page): update the hero, intro, and headings for a specific city
+- [Managing Services](/services-pages/managing-services): edit service names, descriptions, and images
+- [City-Specific Descriptions](/services-pages/city-descriptions): override a service description for a particular city

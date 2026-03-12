@@ -1,6 +1,6 @@
 ---
 title: Managing Services
-description: How to edit service names, descriptions, icons, and images — these appear on every city page.
+description: How to edit service names, descriptions, icons, and images; these appear on every city page.
 ---
 
 The **services** collection contains all the services your company offers. These appear on the home page and on every city services page. Changing a service here updates it everywhere at once.
@@ -48,16 +48,16 @@ The **services** collection contains all the services your company offers. These
 
 ## The Important Notice Field
 
-The **Important Notice** field is an optional highlighted message that appears on city service pages — for example, a warning, a pricing note, or a seasonal availability message.
+The **Important Notice** field is an optional highlighted message that appears on city service pages, for example, a warning, a pricing note, or a seasonal availability message.
 
 :::tip
 Use the **Important Notice** for things like:
-- "Price varies by city — call for a quote."
+- "Price varies by city, call for a quote."
 - "This service is weather-dependent."
 - "Installation requires a site inspection first."
 :::
 
-If you leave this field empty, no notice will appear — that's fine.
+If you leave this field empty, no notice will appear; that's fine.
 
 ---
 
@@ -69,7 +69,7 @@ If you leave this field empty, no notice will appear — that's fine.
 4. Click **Save**.
 
 :::tip
-Use high-quality, relevant photos — ideally showing the actual service being performed. Recommended minimum size: **800×600 pixels**.
+Use high-quality, relevant photos, ideally showing the actual service being performed. Recommended minimum size: **800×600 pixels**.
 :::
 
 ---
@@ -77,7 +77,7 @@ Use high-quality, relevant photos — ideally showing the actual service being p
 ## Important: Changes Affect All City Pages
 
 :::caution
-Editing a service here updates it **on every single city page** at once. If you want a different description for one specific city only, you can add a city-specific override — see [City-Specific Descriptions](/services-pages/city-descriptions).
+Editing a service here updates it **on every single city page** at once. If you want a different description for one specific city only, you can add a city-specific override; see [City-Specific Descriptions](/services-pages/city-descriptions).
 :::
 
 ---

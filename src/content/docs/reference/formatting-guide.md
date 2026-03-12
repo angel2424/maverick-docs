@@ -3,7 +3,7 @@ title: Formatting Guide
 description: How to use markdown and amber highlights in your website content fields.
 ---
 
-Some fields in Directus let you format your text — add bold, bullet points, headings, and more. This guide explains everything you need to know.
+Some fields in Directus let you format your text: add bold, bullet points, headings, and more. This guide explains everything you need to know.
 
 ---
 
@@ -29,7 +29,7 @@ This amber highlight **only works in title fields** (like **Title**, **Subtitle*
 
 ## Markdown Formatting
 
-Several fields support **markdown** — a simple way to format text using plain symbols. You don't need to know any code; just use the examples below.
+Several fields support **markdown**, a simple way to format text using plain symbols. You don't need to know any code; just use the examples below.
 
 ### Fields That Support Markdown
 
@@ -92,9 +92,9 @@ How it works:
 :::
 
 :::tip
-**Line breaks:** If you want to start a new paragraph, leave a **blank line** between them. Just pressing Enter once may not create a visible break — you need a full empty line.
+**Line breaks:** If you want to start a new paragraph, leave a **blank line** between them. Just pressing Enter once may not create a visible break; you need a full empty line.
 :::
 
 :::caution
-**Don't mix amber highlights and markdown.** Typing `*asterisks*` in a description or paragraph field won't create an amber highlight — it will just make the text italic (markdown behavior).
+**Don't mix amber highlights and markdown.** Typing `*asterisks*` in a description or paragraph field won't create an amber highlight; it will just make the text italic (markdown behavior).
 :::

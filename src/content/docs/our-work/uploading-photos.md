@@ -1,9 +1,9 @@
 ---
 title: Uploading Photos
-description: How to upload photos to the Our Work gallery — they appear on the website automatically.
+description: How to upload photos to the Our Work gallery; they appear on the website automatically.
 ---
 
-The Our Work page displays all photos and videos you've uploaded to the **"gallery"** folder in Directus. There are no extra forms to fill out — just upload a photo to the right folder and it appears on the website.
+The Our Work page displays all photos and videos you've uploaded to the **"gallery"** folder in Directus. There are no extra forms to fill out; just upload a photo to the right folder and it appears on the website.
 
 ![Our Work Page Screen Capture](/work.png)
 ---
@@ -12,9 +12,9 @@ The Our Work page displays all photos and videos you've uploaded to the **"galle
 
 You can upload photos in these formats:
 
-- **JPG** / **JPEG** — the most common photo format (from phone cameras)
-- **PNG** — good for images with transparent backgrounds
-- **WebP** — a smaller, web-optimized format
+- **JPG** / **JPEG**: the most common photo format (from phone cameras)
+- **PNG**: good for images with transparent backgrounds
+- **WebP**: a smaller, web-optimized format
 
 :::tip
 Photos taken on your phone (JPG/JPEG) work perfectly. No special format needed.
@@ -28,10 +28,10 @@ Photos taken on your phone (JPG/JPEG) work perfectly. No special format needed.
 2. Click the **Files** icon in the left sidebar (it looks like an image).
 3. Look for the **"gallery"** folder on the left side of the Files area and click it.
 4. Click the **Upload** button (it may appear as a cloud icon with an arrow, or a "+ New" button).
-5. Click **Upload a File** and select the photo from your computer — or drag and drop it directly into the Files area.
+5. Click **Upload a File** and select the photo from your computer, or drag and drop it directly into the Files area.
 6. Wait for the upload to complete. You'll see the photo appear in the gallery folder.
 
-That's it — the photo will show up automatically on the Our Work page.
+The photo will show up automatically on the Our Work page.
 
 ![Directus Files Screen Capture](/gallery.png)
 
