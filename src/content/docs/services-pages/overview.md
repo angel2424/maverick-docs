@@ -1,6 +1,6 @@
 ---
 title: Overview & City Pages
-description: How services pages are organized: one page per city, in English and Spanish.
+description: "How services pages are organized: one page per city, in English and Spanish."
 ---
 
 Your website has a separate services page for each city you serve. Each page is customized with city-specific content, but they all show the same list of services.

@@ -1,6 +1,6 @@
 ---
 title: Navigating Directus
-description: A quick tour of the Directus admin panel: where to find collections, items, and the media library.
+description: "A quick tour of the Directus admin panel: where to find collections, items, and the media library."
 ---
 
 Once you're logged in, you'll see the Directus dashboard. Here's a quick tour so you know where everything is.
