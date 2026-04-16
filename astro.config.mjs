@@ -11,10 +11,13 @@ export default defineConfig({
   integrations: [
     starlight({
       title: 'Website Guide | Maverick Mobile Home Services',
-      favicon: {
-        href: '/favicon.svg?v=2',
-        type: 'image/svg+xml',
-      },
+      favicon: '/favicon.svg',
+      head: [
+        {
+          tag: 'link',
+          attrs: { rel: 'icon', href: '/favicon.svg?v=2', type: 'image/svg+xml' },
+        },
+      ],
       customCss: [
         './src/styles/global.css'
       ],
