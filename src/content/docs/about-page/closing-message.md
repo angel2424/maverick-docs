@@ -5,7 +5,7 @@ description: How to edit the final closing message at the bottom of the About pa
 
 The closing message is the last thing visitors read on the About page. It's a short, heartfelt statement that leaves a lasting impression and invites them to reach out.
 
-![Closing Message Screenshot](/closing-message.png)
+![Closing Message Screen Capture](/closing-message.png)
 
 ---
 
@@ -22,7 +22,7 @@ The closing message is the last thing visitors read on the About page. It's a sh
 
 | Field | What it does |
 |---|---|
-| **Message** | The final message at the bottom of the About page, supports markdown formatting |
+| **Message** | The final message at the bottom of the About page — supports markdown formatting |
 
 ---
 
@@ -48,7 +48,7 @@ The **Message** field supports **markdown**, so you can add bold text, paragraph
 :::tip
 **Keep it warm and personal.** The closing message is your last chance to connect with a potential customer. A 2–3 sentence statement works well.
 
-Example: *"We believe every mobile home deserves quality care and a family that can count on it. Whatever you need, Maverick is ready to help. Give us a call; we'd love to hear from you."*
+Example: *"We believe every mobile home deserves quality care and a family that can count on it. Whatever you need, Maverick is ready to help. Give us a call — we'd love to hear from you."*
 :::
 
 For the full markdown reference, see the [Formatting Guide](/reference/formatting-guide).
